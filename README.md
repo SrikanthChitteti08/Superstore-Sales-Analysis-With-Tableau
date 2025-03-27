@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This Tableau project focuses on analyzing sales data from a Super Store. The dashboard provides interactive visualizations that offer insights into key business metrics such as sales performance, profit trends, and customer segmentation.
 
+## 📸 Dashboard Preview
+![Superstore Sales Dashboard](https://github.com/user-attachments/assets/985f5a89-2bf4-4144-b18e-7ec1650ea1f3)
+
+
 ## 📊 Key Features
 - **Sales Analysis:** Tracks total sales and revenue over time.
 - **Profit Trends:** Identifies profitable and unprofitable segments.
